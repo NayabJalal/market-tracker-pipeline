@@ -1,3 +1,13 @@
 2026-11-19 17:01:35,215 - INFO - Market Tracker Pipeline started!
 2026-11-19 17:01:35,216 - WARNING - This is a warning message
 2026-11-19 17:01:35,216 - ERROR - This is an error message
+2026-11-19 17:08:17,900 - INFO - Database and crypto_prices table are ready.
+2026-11-19 17:08:18,204 - INFO - Successfully fetched Bitcoin
+2026-11-19 17:08:18,599 - INFO - Successfully fetched Ethereum
+2026-11-19 17:08:18,616 - INFO - Successfully saved 2 records!
+2026-11-19 17:08:18,619 - INFO - Retrieved 7 records from database.
+2026-11-19 17:27:33,310 - INFO - Database and crypto_prices table are ready.
+2026-11-19 17:27:33,738 - INFO - Successfully fetched Bitcoin
+2026-11-19 17:27:34,100 - INFO - Successfully fetched Ethereum
+2026-11-19 17:27:34,116 - INFO - Successfully saved 2 records.
+2026-11-19 17:27:34,119 - INFO - Retrieved 9 records from database.
