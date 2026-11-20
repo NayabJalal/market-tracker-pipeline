@@ -11,3 +11,8 @@
 2026-11-19 17:27:34,100 - INFO - Successfully fetched Ethereum
 2026-11-19 17:27:34,116 - INFO - Successfully saved 2 records.
 2026-11-19 17:27:34,119 - INFO - Retrieved 9 records from database.
+2026-11-19 17:39:08,395 - INFO - Database and crypto_prices table are ready.
+2026-11-19 17:39:08,703 - INFO - Successfully fetched Bitcoin
+2026-11-19 17:39:08,880 - INFO - Successfully fetched Ethereum
+2026-11-19 17:39:08,899 - INFO - Successfully saved 2 records.
+2026-11-19 17:39:08,901 - INFO - Retrieved 11 records from database.
